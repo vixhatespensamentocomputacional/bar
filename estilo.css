@@ -16,3 +16,9 @@ p{
 #banner {
     width: 100%;
 }
+#stuff {
+    display: flex;
+}
+#blackcat {
+width: 70%;
+}
