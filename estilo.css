@@ -7,3 +7,12 @@ p{
     color:burlywood;
     font-size: 16px;
 }
+#intro {
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+#banner {
+    width: 100%;
+}
